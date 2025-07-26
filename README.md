@@ -109,9 +109,9 @@ Les logs détaillent chaque étape : provisioning, configuration, test, succès 
 
 ## 📬 Auteur
 
-**Nom** : Ousmane KA 
-**Email** : ka.ousmane@uam.edu.sn 
-**Formation** : Master 2 - Ingénierie des Systèmes d’Information & Données (ISID)  
-**Encadrant** : Dr Massamba LO
+- **Nom** : Ousmane KA 
+- **Email** : ka.ousmane@uam.edu.sn 
+- **Formation** : Master 2 - Ingénierie des Systèmes d’Information & Données (ISID)  
+- **Encadrant** : Dr Massamba LO
 
 
