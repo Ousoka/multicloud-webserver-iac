@@ -48,6 +48,7 @@ Ce nom respecte les bonnes pratiques de nommage des projets DevOps : il est clai
 
 ## 🗂️ Structure du projet
 
+```text
 multicloud-webserver-iac/
 ├── terraform/ # Provisionnement multicloud
 │ ├── main.tf
